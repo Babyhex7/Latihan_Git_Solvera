@@ -7,3 +7,8 @@
 - Git basics
 - Version control
 - Collaboration with team
+
+## Features
+- Interactive dark mode
+- Modern UI design
+- Fast loading
